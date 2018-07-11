@@ -14,7 +14,7 @@ for Linux/OSX or via [GitHub Desktop](https://desktop.github.com/) for OSX/Windo
 2. [Fork this repository](https://guides.github.com/activities/forking/#fork)
 to your account by clicking the "Fork" button in the top right-hand corner of
 this page. We'll call your fork `origin`, since you're starting your own contribution
-from here.
+from there.
 3. [Clone your fork](https://guides.github.com/activities/forking/#clone) of this
 repository to your personal computer (what we will hereafter call `local`) 
 4. Make some changes to a file in this repository by editing it in your favorite
